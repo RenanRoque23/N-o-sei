@@ -1,0 +1,9 @@
+body{
+    font-display: arial;
+    background: rgb(201,37,255);
+    background: linear-gradient(180deg, rgba(201,37,255,1) 0%, rgba(52,8,99,1) 35%, rgba(0,0,0,1) 100%);   
+    text-align: center;
+}
+h2{
+    color:rgb(71, 7, 131);
+}
